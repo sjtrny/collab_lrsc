@@ -9,7 +9,7 @@ Includes a from scratch implementation of [“Multi-task low-rank affinity pursu
 
 ## Citing
 
-This work will be available shortly on arxiv while under review.
+The paper has been submitted to Machine Learning, December 2016.
 
     Collaborative Low-Rank Subspace Clustering
     Stephen Tierney, Junbin Gao, Yi Guo
